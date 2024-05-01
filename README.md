@@ -1,8 +1,5 @@
 # Testing Lab
 
-> [!NOTE]
-> Edited!!!!!
-
 ## Backend
 
 Fastify Server
